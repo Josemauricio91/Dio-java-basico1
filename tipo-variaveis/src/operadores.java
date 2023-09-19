@@ -3,5 +3,8 @@ public class operadores {
     String concatenacao ="?";
     concatenacao = 1+1+1+"1";
     System.out.println(concatenacao);  
+
+String meuNome = "jose "+"mauricio";
+System.out.println(meuNome);
 }
 }
